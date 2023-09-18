@@ -7,7 +7,7 @@ The project is using Bootstrap 5, not so much for styles and perks, but mainly b
 ### Basic needs for a quick start
 
 - bundled and minified Bootstrap 5: use CDN
-- local styles already bundled / minified: nothing to do
+- local styles already bundled / minified: this is the weak point, need Sass bundler or at least CSS minifier
 - assets fingerprinting for production: Propshaft
 
 #### JS handling
