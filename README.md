@@ -1,5 +1,10 @@
 # README
 
+**Benchmark**: 
+**Purpose:** avoid Node and Sprockets
+**Asset pipeline:** propshaft, importmaps
+**Technologies:** bootstrap served from CDN (not customizable)
+
 I am trying to choose the best of at least approproate Asset Pipeline for my apps.
 
 The project is using Bootstrap 5, not so much for styles and perks, but mainly because it illustrates the use of external library with JS and CSS components. JS part has dependency on popper.js and CSS part has optional config for Sass.
