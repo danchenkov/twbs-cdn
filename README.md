@@ -1,6 +1,7 @@
 # README
 
-**Benchmark**: 
+Notice, that with full CDN you can’t override bootstrap styles
+
 **Purpose:** avoid Node and Sprockets
 **Asset pipeline:** propshaft, importmaps
 **Technologies:** bootstrap served from CDN (not customizable)
